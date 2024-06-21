@@ -1776,12 +1776,12 @@ echo:
 echo:
 echo         ____________________________________________________________
 echo:
-echo                 [1] Install Ohook Office Activation
+echo                 [1] Activacion de Office Permanente
 echo:
-echo                 [2] Uninstall Ohook
+echo                 [2] Desinstalar la activacion de Office
 echo                 ____________________________________________
 echo:
-echo                 [3] Download Office
+echo                 [3] Descargar Office
 echo:
 echo                 [0] %_exitmsg%
 echo         ____________________________________________________________
