@@ -270,19 +270,19 @@ echo:
 echo:
 echo:       ______________________________________________________________
 echo:
-echo:                 Activation Methods:
+echo:                 Metodos de activacion:
 echo:
-echo:             [1] HWID        ^|  Windows           ^|   Permanent
-echo:             [2] Ohook       ^|  Office            ^|   Permanent
-echo:             [3] KMS38       ^|  Windows           ^|   Year 2038
-echo:             [4] Online KMS  ^|  Windows / Office  ^|    180 Days
+echo:             [1] Windows         ^|  Windows           ^|   Permanente
+echo:             [2] Office          ^|  Office            ^|   Permanente
+echo:             [3] Windows 2       ^|  Windows           ^|   Año 2038
+echo:             [4] Office y windows^|  Windows / Office  ^|   180 Dias
 echo:             __________________________________________________      
 echo:
-echo:             [5] Activation Status
-echo:             [6] Troubleshoot
+echo:             [5] Estatus de la activacion
+echo:             [6] Problemas
 echo:             [7] Extras
-echo:             [8] Help
-echo:             [0] Exit
+echo:             [8] Ayuda
+echo:             [0] Salir
 echo:       ______________________________________________________________
 echo:
 call :_color2 %_White% "          " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,6,7,8,0] :"
