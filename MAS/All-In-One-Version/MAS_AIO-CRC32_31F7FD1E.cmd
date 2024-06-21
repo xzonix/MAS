@@ -285,7 +285,7 @@ echo:             [8] Ayuda
 echo:             [0] Salir
 echo:       ______________________________________________________________
 echo:
-call :_color2 %_White% "          " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,6,7,8,0] :"
+call :_color2 %_White% "          " %_Green% "Selecciona una opcion del menu [1,2,3,4,5,6,7,8,0] :"
 choice /C:123456780 /N
 set _erl=%errorlevel%
 
