@@ -314,19 +314,19 @@ echo:
 echo:
 echo:       ______________________________________________________________
 echo:
-echo:             [1] Change Windows Edition
+echo:             [1] Cambiar la edicion de Windows
 echo:
-echo:             [2] Extract $OEM$ Folder
+echo:             [2] Extraer la carpeta %OEM%
 echo:
-echo:             [3] Activation Status [vbs]
+echo:             [3] Estatus de activacion con VBS
 echo:
-echo:             [4] Download Genuine Windows / Office
+echo:             [4] Descargar Office / Windows genuino
 echo:             __________________________________________________      
 echo:                                                                     
-echo:             [0] Go to Main Menu
+echo:             [0] Ir al menu principal
 echo:       ______________________________________________________________
 echo:
-call :_color2 %_White% "           " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,0] :"
+call :_color2 %_White% "           " %_Green% "Selecciona una opcion del menu [1,2,3,4,0] :"
 choice /C:12340 /N
 set _erl=%errorlevel%
 
