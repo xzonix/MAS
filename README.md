@@ -30,4 +30,4 @@ Release date: 21-Jun-2024
 
 ---
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">All credits belong to Massgrave 🎈</p>
