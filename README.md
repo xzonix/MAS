@@ -17,7 +17,7 @@
 -   Download and run it  
 ```
 Select an option and you're done!  
-```
+
 
 ```
 Latest Version: 1.0.0
