@@ -24,10 +24,9 @@ Latest Version: 1.0.0
 Release date: 21-Jun-2024
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+p align="center">If you like this project, don't forget to leave a star on it! (aswell on Massgrave's one, too)</p>
 
 ---
 
-<p align="center">All credits belong to Massgrave 🎈</p>
+
+<p align="center">Credits belong to Massgrave. https://massgrave.dev</p>
