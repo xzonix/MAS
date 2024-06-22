@@ -15,7 +15,8 @@
 
 -   Go to the releases tab and search the language you want (if it isn't right there, make a issue and i'm gonna make MAS for that language).
 -   Download and run it  
-Select an option and you're done!  
+- Select an option
+- And you're done!  
 
 
 ```
